@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🔬 Model Equation Prediction
 
@@ -551,4 +551,3 @@ This project is developed as part of the **MTE 421 Mini-Project** coursework. It
 *Exploring the frontier where data meets physics*
 
 </div>
-]]>
