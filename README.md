@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=700&lines=🔬+Model+Equation+Prediction;Discovering+Physics+from+Noisy+Data;PySR+%7C+Keras+%7C+SINDy+%7C+PINN" alt="Typing SVG" />
 
 <br/>
 
